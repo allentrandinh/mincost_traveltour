@@ -1,0 +1,10 @@
+The minimum price for the whole trip is $1386.0.
+
+First, Detroit -> Toronto.
+Day 2, stay at Toronto.
+Day 3, stay at Toronto.
+Day 4, Toronto -> NewYork.
+Day 5, stay at NewYork.
+Day 6, NewYork -> LosAngeles.
+Day 7, stay at LosAngeles.
+Finally, LosAngeles -> Detroit.
