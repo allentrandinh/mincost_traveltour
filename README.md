@@ -9,4 +9,6 @@
  3. Only one new destination can be visited in any given day.
  4. There is a desired duration of stay in each destination.
 
+Example input are provided in the .txt file
+
 
